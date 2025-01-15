@@ -1,0 +1,32 @@
+[
+    {
+        "RegionName": "New York",
+        "StateName": "New York",
+        "RegionType": "City",
+        "Records": 120,
+        "CompletedRecords": 100,
+        "IncompleteRecords": 20,
+        "CompletionPercentage": 83.33,
+        "Date": "2025-01-14"
+    },
+    {
+        "RegionName": "Los Angeles",
+        "StateName": "California",
+        "RegionType": "City",
+        "Records": 150,
+        "CompletedRecords": 145,
+        "IncompleteRecords": 5,
+        "CompletionPercentage": 96.67,
+        "Date": "2025-01-14"
+    },
+    {
+        "RegionName": "Cook County",
+        "StateName": "Illinois",
+        "RegionType": "County",
+        "Records": 200,
+        "CompletedRecords": 190,
+        "IncompleteRecords": 10,
+        "CompletionPercentage": 95.0,
+        "Date": "2025-01-14"
+    }
+]
